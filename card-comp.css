@@ -1,0 +1,113 @@
+
+  .popup-overlay {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  .image-4-icon {
+    position: relative;
+    width: 69px;
+    height: 68px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .artist-b,
+  .title-of-song {
+    position: relative;
+    font-size: 12px;
+    display: inline-block;
+  }
+  .artist-b {
+    font-size: 10px;
+    color: var(--color-gray-100);
+  }
+  .icons8-music-144-1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+  .frame-button {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-3xs) var(--padding-sm);
+    background-color: var(--color-green-200);
+    border-radius: var(--br-md);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .polygon-icon {
+    position: relative;
+    width: 15px;
+    height: 17px;
+    flex-shrink: 0;
+  }
+  .frame-button1 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-2xs) var(--padding-md);
+    background-color: var(--color-red);
+    border-radius: var(--br-md);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-div5,
+  .frame-div6 {
+    display: flex;
+    align-items: center;
+  }
+  .frame-div6 {
+    width: 136px;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .frame-div5 {
+    height: 148px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .frame-div4 {
+    flex-direction: row;
+    justify-content: center;
+    gap: var(--gap-sm);
+  }
+  .card-component-div,
+  .card-div,
+  .frame-div4 {
+    display: flex;
+    align-items: center;
+  }
+  .card-div {
+    border-radius: var(--br-md);
+    background-color: var(--color-black);
+    width: 249px;
+    height: 109px;
+    flex-shrink: 0;
+    flex-direction: row;
+    padding: var(--padding-2xs);
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  .card-component-div {
+    position: relative;
+    width: 100%;
+    height: 106px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-size: var(--font-size-2xs);
+    color: var(--studio-darkmode-allwhite-ffffff);
+    font-family: var(--font-poppins);
+  }
+  

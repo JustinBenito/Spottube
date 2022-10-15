@@ -1,0 +1,43 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-6xs: 10.47px;
+  --font-size-5xs: 12px;
+  --font-size-4xs: 14px;
+  --font-size-3xs: 15px;
+  --font-size-2xs: 16px;
+  --font-size-xs: 20px;
+  --font-size-sm: 24px;
+  --font-size-base: 32px;
+
+  /* Colors */
+  --studio-darkmode-allwhite-ffffff: #fff;
+  --color-green-100: #1ed760;
+  --color-green-200: #1db954;
+  --color-black: #000;
+  --color-gray-100: #676767;
+  --color-gray-200: #424242;
+  --color-red: #e31010;
+
+  /* Gaps */
+  --gap-sm: 10px;
+  --gap-md: 22.43px;
+
+  /* Paddings */
+  --padding-3xs: 8px;
+  --padding-2xs: 10px;
+  --padding-xs: 16.445871353149414px;
+  --padding-sm: 23px;
+  --padding-md: 24px;
+  --padding-lg: 40px;
+  --padding-xl: 50px;
+  --padding-2xl: 59.803165435791016px;
+  --padding-3xl: 60px;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 20px;
+}
