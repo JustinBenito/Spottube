@@ -65,3 +65,8 @@ you can shoot a mail to justinbenito1974@gmail.com if you have any queries or ne
 
 All content derived from the API belongs to the respective companies that provide the API.
 
+## Use Case
+
+Can be used by Music professionals and DJ's who would want to have a downloaded Mp3 of a spotify playlist.
+
+
