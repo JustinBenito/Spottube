@@ -56,7 +56,7 @@ you can shoot a mail to justinbenito1974@gmail.com if you have any queries or ne
 
 ## Tech Stack
 
-**FrontEnd:**  Locofy.ai \
+**FrontEnd:**  HTML/CSS (Locofy.ai) \
 **Backend:** JS 
 
 
